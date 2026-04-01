@@ -144,7 +144,7 @@ export default function HomePage() {
         </p>
         <div className="hero-actions">
           <button className="btn-main" onClick={() => navigate("/split")}>start splitting →</button>
-          <span className="hero-hint">no account needed to try</span>
+          <span className="hero-hint"></span>
         </div>
       </section>
 
